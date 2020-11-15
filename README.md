@@ -1,11 +1,11 @@
 # Alejandro Ojeda - @AleOjeda
-### Hola soy Alejandro Ojeda👋
+Hola soy Alejandro Ojeda👋
 
 # Un poco de mi:
-##- 🔭 Donde trabajo?: Nec Chile como ingeniero de sistemas...
+- 🔭 Donde trabajo?: Nec Chile como ingeniero de sistemas...
 - 🌱 Crecimiento: Aprendiendo Desarrollo Full Stack -MERN-...
 
-## Pasiones:
+### Pasiones:
 -Resolución de problemas.
 -Aprendizaje continuo.
 -Mundo tecnológico.
