@@ -1,6 +1,6 @@
 # Alejandro Ojeda - @AleOjeda
 Hola soy Alejandro Ojeda, ingeniero industrial abocado al mundo tecnólogico. Especialista en bajar a tierra ideas :rocket: . <br>
-Argentino :argentina: actualmente radicado en Chile :chile:
+Argentino :flag_ar: actualmente radicado en Chile :chile:
 👋
 
 # Un poco de mi:
