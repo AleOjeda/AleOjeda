@@ -15,11 +15,11 @@ Argentino actualmente radicado en Chile.
 
 
 ## Contacto:
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/alejandro-ojeda/) https://linkedin.com/in/alejandro-ojeda/
+https://linkedin.com/in/alejandro-ojeda/
 
 <!--
 **AleOjeda/AleOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/alejandro-ojeda/) 
 
 
 Here are some ideas to get you started:
